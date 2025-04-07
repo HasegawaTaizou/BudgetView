@@ -1,0 +1,17 @@
+services:
+  postgres:
+    build:
+      context: ./postgres
+      dockerfile: postgres.Dockerfile
+    container_name: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: budgetview
+      PGDATA: /var/lib/postgresql/data/my_data/
+    ports:
+      - "5432:5432"
+volumes:
+  es_data:
+    driver: local
