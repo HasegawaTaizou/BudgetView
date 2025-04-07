@@ -66,6 +66,7 @@ Depois de iniciar o backend, você pode visualizar e testar os endpoints via Swa
 ```
 http://localhost:3000/docs
 ```
+![Swagger Endpoint](./public/images/openapi.png)
 
 ## Como Executar o FrontEnd
 
