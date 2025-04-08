@@ -1,2 +1,0 @@
-endpoint do openapi
-avaliar o modelo
