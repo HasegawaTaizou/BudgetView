@@ -4,7 +4,7 @@ Este repositório contém um projeto completo com **frontend em Flutter**, **bac
 
 Este é um vídeo de demonstração do aplicativo em funcionamento. Ele mostra as principais funcionalidades e a experiência do usuário na prática.
 
-https://github.com/user-attachments/assets/7458d582-43d5-452a-8f6b-dc41be37b247
+👉 [Clique aqui para assistir ao vídeo de demonstração](https://github.com/user-attachments/assets/7458d582-43d5-452a-8f6b-dc41be37b247)
 ---
 
 ## Tecnologias Utilizadas
