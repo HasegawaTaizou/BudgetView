@@ -1,0 +1,934 @@
+[
+  {
+    "category": "Fast Food",
+    "name": "McDonald's",
+    "value": 34.9,
+    "date": "05/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Big Mac Combo",
+    "value": 34.9,
+    "date": "05/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Burger King",
+    "value": 38.5,
+    "date": "08/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Whopper Duplo",
+    "value": 38.5,
+    "date": "08/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "KFC",
+    "value": 65.9,
+    "date": "12/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Balde de Frango",
+    "value": 65.9,
+    "date": "12/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Subway",
+    "value": 29.9,
+    "date": "15/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Sanduíche Italiano 30cm",
+    "value": 29.9,
+    "date": "15/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Pizza Hut",
+    "value": 54.9,
+    "date": "18/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Pizza Média de Pepperoni",
+    "value": 54.9,
+    "date": "18/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Domino's Pizza",
+    "value": 89.9,
+    "date": "22/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Combo Família",
+    "value": 89.9,
+    "date": "22/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Popeyes",
+    "value": 27.9,
+    "date": "26/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Sanduíche de Frango",
+    "value": 27.9,
+    "date": "26/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Wendy's",
+    "value": 42.0,
+    "date": "30/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Baconator Combo",
+    "value": 42.0,
+    "date": "30/01/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Habib's",
+    "value": 19.9,
+    "date": "03/02/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "10 Bib'sfihas",
+    "value": 19.9,
+    "date": "03/02/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Giraffas",
+    "value": 32.0,
+    "date": "07/02/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Parmegiana de Frango",
+    "value": 32.0,
+    "date": "07/02/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Taco Bell",
+    "value": 24.9,
+    "date": "10/02/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "3 Crunchy Tacos",
+    "value": 24.9,
+    "date": "10/02/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Outback",
+    "value": 59.9,
+    "date": "14/02/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Bloomin' Onion",
+    "value": 59.9,
+    "date": "14/02/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Ragazzo",
+    "value": 22.9,
+    "date": "18/02/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Combo Lasanha + Guaraná",
+    "value": 22.9,
+    "date": "18/02/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "China In Box",
+    "value": 39.9,
+    "date": "22/02/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Yakisoba Executivo",
+    "value": 39.9,
+    "date": "22/02/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Bob's",
+    "value": 35.0,
+    "date": "25/02/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Big Bob Combo",
+    "value": 35.0,
+    "date": "25/02/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Johnny Rockets",
+    "value": 48.9,
+    "date": "01/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Classic Burger",
+    "value": 48.9,
+    "date": "01/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Five Guys",
+    "value": 65.0,
+    "date": "06/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Cheeseburger + Fritas",
+    "value": 65.0,
+    "date": "06/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Madeiro",
+    "value": 42.9,
+    "date": "10/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Cheeseburger Clássico",
+    "value": 42.9,
+    "date": "10/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Bullguer",
+    "value": 39.0,
+    "date": "14/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Stencil + Fritas",
+    "value": 39.0,
+    "date": "14/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Holy Burger",
+    "value": 47.5,
+    "date": "18/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "X-Bacon Artesanal",
+    "value": 47.5,
+    "date": "18/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Koni",
+    "value": 29.9,
+    "date": "22/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Temaki de Salmão",
+    "value": 29.9,
+    "date": "22/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Pastelaria 10",
+    "value": 20.0,
+    "date": "26/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Combo Pastel + Caldo de Cana",
+    "value": 20.0,
+    "date": "26/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Hooters",
+    "value": 55.0,
+    "date": "30/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Wings + Molho Ranch",
+    "value": 55.0,
+    "date": "30/03/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Açaí Concept",
+    "value": 28.0,
+    "date": "03/04/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Tigela Média",
+    "value": 28.0,
+    "date": "03/04/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "McDonald's",
+    "value": 15.9,
+    "date": "07/04/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "McFlurry Oreo",
+    "value": 15.9,
+    "date": "07/04/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Outback",
+    "value": 49.9,
+    "date": "11/04/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Aussie Cheese Fries",
+    "value": 49.9,
+    "date": "11/04/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Milk & Mellow",
+    "value": 22.0,
+    "date": "15/04/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Milkshake Chocolate",
+    "value": 22.0,
+    "date": "15/04/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Panda Express",
+    "value": 37.0,
+    "date": "19/04/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "Orange Chicken",
+    "value": 37.0,
+    "date": "19/04/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "McDonald's",
+    "value": 29.9,
+    "date": "23/04/2025"
+  },
+  {
+    "category": "Fast Food",
+    "name": "McNuggets 10 unidades",
+    "value": 29.9,
+    "date": "23/04/2025"
+  },
+
+  {
+    "category": "Supermercado",
+    "name": "Carrefour",
+    "value": 450.9,
+    "date": "05/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Natural da Terra",
+    "value": 78.5,
+    "date": "06/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Verduras",
+    "value": 78.5,
+    "date": "06/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Frutas",
+    "value": 78.5,
+    "date": "06/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Assaí Atacadista",
+    "value": 189.0,
+    "date": "07/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Carne",
+    "value": 189.0,
+    "date": "07/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Churrasco",
+    "value": 189.0,
+    "date": "07/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Extra Supermercado",
+    "value": 34.8,
+    "date": "08/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Leite",
+    "value": 34.8,
+    "date": "08/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Ovo",
+    "value": 34.8,
+    "date": "08/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Pão",
+    "value": 34.8,
+    "date": "08/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Pão de Açúcar",
+    "value": 98.9,
+    "date": "09/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "higiene pessoal",
+    "value": 98.9,
+    "date": "09/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Mercado do Peixe",
+    "value": 125.7,
+    "date": "10/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "frutos do mar",
+    "value": 125.7,
+    "date": "10/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Peixes",
+    "value": 125.7,
+    "date": "10/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Atacadão",
+    "value": 279.9,
+    "date": "11/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Lojas Americanas",
+    "value": 45.3,
+    "date": "12/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Doces",
+    "value": 45.3,
+    "date": "12/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "chocolates",
+    "value": 45.3,
+    "date": "12/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Guanabara",
+    "value": 132.0,
+    "date": "13/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Cervejas",
+    "value": 132.0,
+    "date": "13/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "refrigerantes",
+    "value": 132.0,
+    "date": "13/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Oba Hortifruti",
+    "value": 89.9,
+    "date": "14/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Queijos",
+    "value": 89.9,
+    "date": "14/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Frios",
+    "value": 89.9,
+    "date": "14/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Supermercado Dia",
+    "value": 67.4,
+    "date": "15/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Produtos de limpeza",
+    "value": 67.4,
+    "date": "15/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Supermercado Barbosa",
+    "value": 54.6,
+    "date": "16/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Iogurtes",
+    "value": 54.6,
+    "date": "16/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "laticínios",
+    "value": 54.6,
+    "date": "16/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Rede Big",
+    "value": 35.9,
+    "date": "17/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Massas",
+    "value": 35.9,
+    "date": "17/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "molhos",
+    "value": 35.9,
+    "date": "17/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Makro",
+    "value": 78.2,
+    "date": "18/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Comida congelada",
+    "value": 78.2,
+    "date": "18/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Sonda Supermercados",
+    "value": 23.9,
+    "date": "19/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Papel higiênico",
+    "value": 23.9,
+    "date": "19/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Atacadão",
+    "value": 48.3,
+    "date": "20/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Óleo",
+    "value": 48.3,
+    "date": "20/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "arroz",
+    "value": 48.3,
+    "date": "20/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "feijão",
+    "value": 48.3,
+    "date": "20/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Pão de Açúcar",
+    "value": 15.8,
+    "date": "21/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Zona Cerealista",
+    "value": 29.5,
+    "date": "23/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Temperos",
+    "value": 29.5,
+    "date": "23/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "especiarias",
+    "value": 29.5,
+    "date": "23/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Supermercado Nagumo",
+    "value": 21.4,
+    "date": "26/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Vegetais congelados",
+    "value": 21.4,
+    "date": "26/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Supermercado",
+    "value": 64.7,
+    "date": "27/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Mercado",
+    "value": 64.7,
+    "date": "27/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Mercado da Família",
+    "value": 64.7,
+    "date": "27/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Viva Natural",
+    "value": 75.3,
+    "date": "28/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Swift",
+    "value": 210.0,
+    "date": "29/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Lojas Americanas",
+    "value": 58.9,
+    "date": "30/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Carrefour",
+    "value": 97.8,
+    "date": "31/01/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Supermercado Big",
+    "value": 130.9,
+    "date": "01/02/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Bebida",
+    "value": 130.9,
+    "date": "01/02/2025"
+  },
+  {
+    "category": "Supermercado",
+    "name": "Supermercado Dia",
+    "value": 44.5,
+    "date": "02/02/2025"
+  },
+
+  {
+    "category": "Padaria",
+    "name": "Padaria",
+    "value": 18.9,
+    "date": "05/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Padaria São João",
+    "value": 18.9,
+    "date": "05/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "pão",
+    "value": 18.9,
+    "date": "05/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "pães",
+    "value": 18.9,
+    "date": "05/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Bella Massa",
+    "value": 32.5,
+    "date": "06/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "croissants",
+    "value": 32.5,
+    "date": "06/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Doce Sabor",
+    "value": 45.0,
+    "date": "07/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Pão Nosso",
+    "value": 7.2,
+    "date": "08/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "pão francês",
+    "value": 7.2,
+    "date": "08/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Recanto do Pão",
+    "value": 25.3,
+    "date": "09/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Biscoitos caseiros",
+    "value": 25.3,
+    "date": "09/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Café & Pão",
+    "value": 14.9,
+    "date": "10/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Pão de queijo",
+    "value": 14.9,
+    "date": "10/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Panificadora Central",
+    "value": 19.8,
+    "date": "11/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Sabor e Tradição",
+    "value": 26.5,
+    "date": "12/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "pães integrais",
+    "value": 26.5,
+    "date": "12/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Casa do Pão",
+    "value": 12.4,
+    "date": "15/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "sonho",
+    "value": 21.7,
+    "date": "16/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Ponto do Trigo",
+    "value": 21.7,
+    "date": "16/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Doce Amanhecer",
+    "value": 27.6,
+    "date": "17/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "salgados",
+    "value": 27.6,
+    "date": "17/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Panificadora Imperial",
+    "value": 33.9,
+    "date": "18/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "baguetes",
+    "value": 33.9,
+    "date": "18/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Trigo Dourado",
+    "value": 22.3,
+    "date": "19/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Folhados de queijo",
+    "value": 22.3,
+    "date": "19/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Sabores da Serra",
+    "value": 9.8,
+    "date": "20/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Padaria Colonial",
+    "value": 41.2,
+    "date": "21/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Pão de Ouro",
+    "value": 36.5,
+    "date": "22/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Misto quente",
+    "value": 17.8,
+    "date": "23/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Pão & Cia",
+    "value": 17.8,
+    "date": "23/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Padaria Estrela",
+    "value": 15.4,
+    "date": "24/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Trigo Real",
+    "value": 28.9,
+    "date": "25/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Pão Delícia",
+    "value": 49.6,
+    "date": "26/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Cantinho do Trigo",
+    "value": 13.7,
+    "date": "27/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Panificadora Suprema",
+    "value": 37.9,
+    "date": "28/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Doce Pão",
+    "value": 11.2,
+    "date": "29/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Panificadora Bela Vista",
+    "value": 24.5,
+    "date": "30/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Pão Quente Express",
+    "value": 22.8,
+    "date": "31/01/2025"
+  },
+  {
+    "category": "Padaria",
+    "name": "Padaria Doce Encanto",
+    "value": 19.3,
+    "date": "01/02/2025"
+  }
+]

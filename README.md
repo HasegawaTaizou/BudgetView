@@ -24,6 +24,29 @@ Foi implementado um **categorizador de dados** que utiliza:
 
 Essa solução permite classificar automaticamente entradas de texto em diferentes categorias com base em treinamento supervisionado.
 
+### Avaliação do Modelo
+
+#### Relatório de Classificação
+
+O modelo foi avaliado usando os próprios dados de treino. Abaixo está o resumo das métricas extraído do arquivo `classification_report.csv` dentro da pasta public/ai:
+
+| Categoria        | Precisão (`precision`) | Revocação (`recall`) | F1-score | Suporte |
+|------------------|------------------------|-----------------------|----------|---------|
+| **Fast Food**     | 1.00                   | 1.00                  | 1.00     | 58      |
+| **Padaria**       | 0.975                  | 1.00                  | 0.987    | 39      |
+| **Supermercado**  | 1.00                   | 0.983                 | 0.991    | 58      |
+| **Accuracy**      | 0.994                  | 0.994                 | 0.994    | 0.994   |
+| **Média Macro**   | 0.992                  | 0.994                 | 0.993    | 155     |
+| **Média Ponderada** | 0.994                | 0.994                 | 0.994    | 155     |
+
+> *Nota: Os valores foram arredondados para facilitar a leitura.*
+
+#### Matriz de Confusão
+
+Abaixo está a matriz de confusão gerada após o treino do modelo:
+
+![Matriz de Confusão](./public/images/confusion_matrix.png)
+
 ---
 
 ## Interface do Usuário (Figma)
