@@ -3,7 +3,8 @@
 Este repositório contém um projeto completo com **frontend em Flutter**, **backend em Python** e uma solução de **categorização automática de dados** utilizando **TfidfVectorizer** e o classificador **MultinomialNB**.
 
 Este é um vídeo de demonstração do aplicativo em funcionamento. Ele mostra as principais funcionalidades e a experiência do usuário na prática.
-![Demonstração do App](https://github.com/user-attachments/assets/7458d582-43d5-452a-8f6b-dc41be37b247)
+
+https://github.com/user-attachments/assets/7458d582-43d5-452a-8f6b-dc41be37b247
 ---
 
 ## Tecnologias Utilizadas
