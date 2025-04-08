@@ -1,10 +1,10 @@
-# 📊 Projeto de Categorização de Dados
+# Projeto de Categorização de Dados
 
 Este repositório contém um projeto completo com **frontend em Flutter**, **backend em Python** e uma solução de **categorização automática de dados** utilizando **TfidfVectorizer** e o classificador **MultinomialNB**.
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Frontend:** Flutter
 - **Backend:** Python
